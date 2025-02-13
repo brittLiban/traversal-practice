@@ -265,6 +265,10 @@ public class TraversalPracticeTest {
              3  8    15
                 /    /  \
                7   11   19
+
+
+        
+               
         */
         Node<Integer> root = new Node<>(10,
                 new Node<>(5,
